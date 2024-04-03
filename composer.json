@@ -1,0 +1,14 @@
+{
+    "name": "frozzka/farm",
+    "autoload": {
+        "psr-4": {
+            "": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "frozzka",
+            "email": "egor.k.19981611@inbox.ru"
+        }
+    ]
+}
